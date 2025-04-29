@@ -34,7 +34,7 @@
   * Single-handedly built single‑code‑base Flutter app,.
 * **Fun side builds**  
   * **Anniversary Storybook** – interactive Flutter/Web flipping‑book synced to Ed Sheeran’s *Photograph* → <https://we-are-2.web.app>  
-  * **NPuzzleX** – performant Flutter/Web implementation of the classic N‑puzzle with heuristic solver → <https://npuzzlex.web.app/#/>
+  * **NPuzzleX** – performant Flutter/Web implementation of the classic N‑puzzle with heuristic solver → <https://npuzzlex.web.app>
 
 ### 3. Research & innovation
 * Co‑developed NHS‑funded model that segments/quantifies visceral & subcutaneous fat in CT scans to aid metabolic‑risk stratification.  
