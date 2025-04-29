@@ -11,22 +11,20 @@
 
 | 💡 Claim | 🔗 One‑click proof |
 |----------|-------------------|
-| **Core open‑source / knowledge sharer** | 12 k+ rep, 700 k+ devs reached on Stack Overflow → <https://stackoverflow.com/users/11452511/josteve-adekanbi> |
+| **Core open‑source / knowledge sharer** | 12 k+ rep, 700k+ devs reached on Stack Overflow → <https://stackoverflow.com/users/11452511/josteve-adekanbi> |
 | **Builder of a 350 k‑user product** | Klasha fintech app – Google feature at *Flutter Forward ’23* → <https://www.youtube.com/live/zKQYGKAe5W8?si=OLOxokq9IncADJV2&t=7525> |
 | **Google‑featured creator** | "Building Klasha in Flutter" – filmed by Google, Lagos → Same video link above |
 | **Published researcher** | IEEE Access paper on CT‑fat quantification (NHS UK) → <https://ieeexplore.ieee.org/document/10870231> |
-| **Academic fast‑tracker** | BSc (First Class) @18, MSc (Distinction) @20, UK Global Talent @21, PhD start @22 – transcript snapshot → `/docs/Academic_Timeline.pdf` |
+| **Academic fast‑tracker** | BSc (First Class) @18, MSc (Distinction) @20, UK Global Talent @21, PhD start @22 – [transcript snapshot](https://github.com/JosteveGit/me/blob/main/docs/JOSTEVE%20ADEKANBI%20-%20FULL%20TRANSCRIPT%20.pdf) |
 | **Community founder** | Founder & organiser, Flutter Birmingham – meetup page → <https://www.meetup.com/flutter-birmingham/> |
 | **International speaker** | Droidcon London talk → <https://www.droidcon.com/2023/11/15/deep-dive-into-flutter-animations-crafting-dynamic-and-engaging-uis/> |
-
-> *All downloadable artefacts live in the `/docs` or `/slides` folders of this repo for permanent access.*
 
 ---
 
 ## Highlights in context
 
 ### 1. Open‑source & knowledge sharing
-* **Stack Overflow** – 12 k+ reputation, Top‑1 % contributor, 400 + accepted answers since age 16, reaching 700 k+ developers.  
+* **Stack Overflow** – 12k+ reputation, answering since age 16, reaching 700k+ developers.  
 * **Flutter Birmingham** – founded and grew the meetup into one of the UK’s largest Flutter communities, facilitating conference‑style meet‑ups.
 
 ### 2. Product impact
@@ -35,7 +33,7 @@
   * Featured by Google at *Flutter Forward ’23*; demo filmed on‑site in Lagos.  
   * Single-handedly built single‑code‑base Flutter app,.
 * **Fun side builds**  
-  * **Anniversary Storybook** – interactive flipping‑book synced to Ed Sheeran’s *Photograph* → <https://we-are-2.web.app>  
+  * **Anniversary Storybook** – interactive Flutter/Web flipping‑book synced to Ed Sheeran’s *Photograph* → <https://we-are-2.web.app>  
   * **NPuzzleX** – performant Flutter/Web implementation of the classic N‑puzzle with heuristic solver → <https://npuzzlex.web.app/#/>
 
 ### 3. Research & innovation
