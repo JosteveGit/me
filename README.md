@@ -1,5 +1,5 @@
 # Josteve Adekanbi  
-*Engineer · Researcher  · Community Founder*
+*Engineer · Researcher*
 
 ---
 
