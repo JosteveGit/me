@@ -13,7 +13,7 @@
 |----------|-------------------|
 | **Core open‑source / knowledge sharer** | 12 k+ rep, 700k+ devs reached on Stack Overflow → <https://stackoverflow.com/users/11452511/josteve-adekanbi> |
 | **Builder of a 350 k‑user product** | Klasha fintech app – Google feature at *Flutter Forward ’23* → <https://www.youtube.com/live/zKQYGKAe5W8?si=OLOxokq9IncADJV2&t=7525> |
-| **Google‑featured creator** | "Building Klasha in Flutter" – filmed by Google, Lagos → Same video link above |
+| **Google‑featured creator** | "Building Klasha in Flutter" – filmed by Google in Lagos → Same video link above |
 | **Published researcher** | IEEE Access paper on CT‑fat quantification (NHS UK) → <https://ieeexplore.ieee.org/document/10870231> |
 | **Academic fast‑tracker** | BSc (First Class) @18, MSc (Distinction) @20, UK Global Talent @21, PhD start @22 – [transcript snapshot](https://firebasestorage.googleapis.com/v0/b/ding2pay.firebasestorage.app/o/JOSTEVE%20ADEKANBI%20-%20FULL%20TRANSCRIPT%20.pdf?alt=media&token=867a5d00-a4d9-4c5b-a8d1-ef4570f8dedf) |
 | **Community founder** | Founder & organiser, Flutter Birmingham – meetup page → <https://www.meetup.com/flutter-birmingham/> |
